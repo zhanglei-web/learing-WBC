@@ -1,2 +1,2 @@
-# wbc_playground
+#WBC
 wbc练习仓库
